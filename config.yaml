@@ -1,0 +1,6 @@
+path: /Users/tomasroch/IdeaProjects/ismap #edit path for your needs
+train: images/train
+val: images/val
+
+names:
+  0: boobs
