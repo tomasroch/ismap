@@ -1,10 +1,7 @@
 import os
-import cv2
-from ultralytics import YOLO
 import supervision as sv
 from PIL import Image
-
-
+from ultralytics import YOLO
 
 BLUR_LEVEL = 200
 
