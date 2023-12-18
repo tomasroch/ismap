@@ -3,7 +3,6 @@
 - Add images to censor to {Project}/images/test folder and run main_app.py
 - (Test images used in article are in the images/test folder in link below)
 
-
 ## Link to dataset and test images
 https://drive.google.com/drive/folders/1nqjSDXZfGZ_LOSYVF3lybsRmY-VOciTR?usp=sharing
 
